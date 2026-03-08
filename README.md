@@ -1,2 +1,2 @@
 # lineage_release
-test releaes exynos7870
+releaes for exynos7870
