@@ -1,2 +1,2 @@
 # lineage_release
-releaes for exynos7870
+releaes for j5y17lte lineage-18.1
