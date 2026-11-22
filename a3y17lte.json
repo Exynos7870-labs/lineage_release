@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1795351434,
-      "filename": "lineage-22.2-20261122-UNOFFICIAL-a3y17lte.zip",
-      "id": "e2f800df401ec9fbd26c5b2f6ae30e080b59d73767d6490db33f3d0cdf292f07",
-      "romtype": "UNOFFICIAL",
-      "size": 950123266,
-      "url": "https://github.com/Exynos7870-labs/lineage_release/releases/download/a3y17lte-22_R5/lineage-22.2-20261122-UNOFFICIAL-a3y17lte.zip",
-      "version": "22.2"
-    },
-    {
       "datetime": 1793712372,
       "filename": "lineage-22.2-20261103-UNOFFICIAL-a3y17lte.zip",
       "id": "b6acfe8b3c0282d43c9d5acb9b19ab5d0e9419d775af5dd2204cebdd7aa40185",
