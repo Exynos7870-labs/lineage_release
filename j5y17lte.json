@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1795515862,
+      "filename": "lineage-22.2-20261124-UNOFFICIAL-j5y17lte.zip",
+      "id": "56fc2eddd12709f1dd437834e3bfd7b85f7fd7a76cb872c30196a7599575b88f",
+      "romtype": "UNOFFICIAL",
+      "size": 940616520,
+      "url": "https://github.com/Exynos7870-labs/lineage_release/releases/download/j5y17lte-22_R2/lineage-22.2-20261124-UNOFFICIAL-j5y17lte.zip",
+      "version": "22.2"
+    }
+  ]
+}
